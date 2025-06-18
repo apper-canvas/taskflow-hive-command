@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "title": "Review quarterly budget reports",
+    "description": "Analyze Q3 financial performance and prepare recommendations for Q4 budget adjustments",
+    "category": "Work",
+    "priority": "high",
+    "dueDate": "2024-01-15T09:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-10T08:30:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Schedule dentist appointment",
+    "description": "Book routine cleaning and checkup for next month",
+    "category": "Personal",
+    "priority": "medium",
+    "dueDate": "2024-01-20T14:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-08T10:15:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 3,
+    "title": "Buy groceries for dinner party",
+    "description": "Get ingredients for Saturday's dinner party - salmon, vegetables, wine, and dessert items",
+    "category": "Shopping",
+    "priority": "high",
+    "dueDate": "2024-01-13T17:00:00.000Z",
+    "completed": true,
+    "createdAt": "2024-01-12T07:45:00.000Z",
+    "completedAt": "2024-01-12T16:30:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Prepare presentation slides",
+    "description": "Create slide deck for Monday's client presentation on new marketing strategy",
+    "category": "Work",
+    "priority": "high",
+    "dueDate": "2024-01-14T23:59:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-11T13:20:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Plan weekend hiking trip",
+    "description": "Research trails, check weather, and pack gear for Sunday's mountain hike",
+    "category": "Personal",
+    "priority": "low",
+    "dueDate": "2024-01-16T12:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-09T19:00:00.000Z",
+    "completedAt": null
+  }
+]
