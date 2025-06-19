@@ -236,7 +236,7 @@ const Home = () => {
               </p>
             </div>
 
-            <p>new task button</p>
+            <p>new task button 1</p>
             <Button
               variant="primary"
               icon="Plus"
